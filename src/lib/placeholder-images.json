@@ -3,8 +3,20 @@
     {
       "id": "earthen-echoes-logo",
       "description": "A logo for the Earthen Echoes app",
-      "imageUrl": "https://images.unsplash.com/photo-1636070515198-d7329524e6e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxqb3VybmFsJTIwYm9va3xlbnwwfHx8fDE3NTg3NDcyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1657879005498-e37074afc059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxqb3VybmFsJTIwYm9va3xlbnwwfHx8fDE3NTg3NDcyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "journal book"
+    },
+    {
+      "id": "empty-journal",
+      "description": "An image for the empty journal state",
+      "imageUrl": "https://images.unsplash.com/photo-1501618669935-18b6ecb13d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxvcGVuJTIwYm9va3xlbnwwfHx8fDE3NTg2OTM1OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "open book"
+    },
+    {
+      "id": "new-entry-visual",
+      "description": "A decorative visual for the new entry page",
+      "imageUrl": "https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3cml0aW5nJTIwaGFuZHxlbnwwfHx8fDE3NTg3MzY2NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "writing hand"
     }
   ]
 }

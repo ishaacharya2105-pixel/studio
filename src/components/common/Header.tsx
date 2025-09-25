@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { BookMarked } from "lucide-react";
+import { AppLogo } from "@/components/common/AppLogo";
 
 export default function Header() {
   return (
@@ -9,7 +9,7 @@ export default function Header() {
           href="/"
           className="flex items-center gap-3 text-xl font-semibold tracking-tight text-foreground transition-opacity hover:opacity-80"
         >
-          <BookMarked className="h-6 w-6 text-primary" />
+          <AppLogo className="h-8 w-8 text-primary" />
           <span className="font-headline">Earthen Echoes</span>
         </Link>
       </div>
